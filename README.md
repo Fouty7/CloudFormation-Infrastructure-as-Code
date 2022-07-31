@@ -1,4 +1,4 @@
-### Udacity Project 2 - Deploy a high-availability web app using CloudFormation
+### Deploys a high-availability web app using CloudFormation
     deploy web servers for a highly available web app using CloudFormation
     The network diagram 'High_Availability_Architecture.jpeg' gives a blue print 
     of the setup we will be implementing using cloudformatio
